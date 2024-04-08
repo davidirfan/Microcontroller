@@ -1,5 +1,3 @@
 # Microcontroller
 Berikut beberapa simpanan dari praktikum mikrokontroller selama aku berkuliah
-
-Materi yang akan kuberikan disini meliputi
-1. Simulasi Pemograman Arduino dengan Protheus
+Praktikum Mikrokontroller yang dipelajari meliputi pemograman mikrokontroller dalam bentuk Arduino dengan menggunakan metode simulasi pada aplikasi Protheus.
